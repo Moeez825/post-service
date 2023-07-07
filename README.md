@@ -14,30 +14,6 @@ The Post Service is a microservice in the Instagram clone application that handl
 - Like a post
 - Retrieve the number of likes for a post
 
-## Technologies Used
-- Java 17
-- Spring Boot 3.1.0
-- Maven 4.0.0
-- PostgreSQL 15.3
-
-## Getting Started
-
-These instructions will get you a copy of the Story Service up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- MySQL (or any other supported database) installed and running
-- Maven (or your preferred build tool) installed
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-
-
 ## Dependencies
 
 - [Spring Boot] 
